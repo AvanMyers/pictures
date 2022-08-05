@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\pictures\pictures\bin\Debug\pictures.exe.config
+D:\Visual Studio\Project\pictures\pictures\bin\Debug\pictures.exe
+D:\Visual Studio\Project\pictures\pictures\bin\Debug\pictures.pdb
+D:\Visual Studio\Project\pictures\pictures\obj\Debug\pictures.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\pictures\pictures\obj\Debug\pictures.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\pictures\pictures\obj\Debug\pictures.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\pictures\pictures\obj\Debug\pictures.exe
+D:\Visual Studio\Project\pictures\pictures\obj\Debug\pictures.pdb
