@@ -17,7 +17,7 @@ namespace pictures
             int result = allPictures / linedUp;
 
             Console.WriteLine($"Полностью заполненных рядов картнок {result}" +
-                $", а картинок свер меры {beyondMeasure}");
+                $", а картинок сверх меры {beyondMeasure}");
             
 
             Console.ReadKey();
