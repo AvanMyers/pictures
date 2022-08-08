@@ -11,12 +11,12 @@ namespace pictures
         static void Main(string[] args)
         {
             int allPictures = 52;
-            int linedUp = 3;
+            int pituresInLine = 3;
 
-            int beyondMeasure = allPictures % linedUp;
-            int result = allPictures / linedUp;
+            int beyondMeasure = allPictures % pituresInLine;
+            int filledRows = allPictures / pituresInLine;
 
-            Console.WriteLine($"Полностью заполненных рядов картнок {result}" +
+            Console.WriteLine($"Полностью заполненных рядов картнок {filledRows}" +
                 $", а картинок сверх меры {beyondMeasure}");
             
 
